@@ -24,7 +24,7 @@ project-root/
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/Plant-analysis-app.git
+git clone https://github.com/saparya04/Plant-health-analysis-app.git
 cd plant-analysis-app
 ```
 
@@ -59,7 +59,7 @@ npm start
 - The PDF is **downloadable**
 
 ## 🖥️ Frontend Integration
-The frontend is served from the `public` directory. Modify `public/index.html` and `public/output.css` for UI customization.
+The frontend is served from the `public` directory. Modify `public/index.html` for UI customization.
 
 ## 🤝 Contributing
 1. Fork the repository
