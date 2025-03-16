@@ -15,7 +15,7 @@ project-root/
 │── uploads/         # Stored uploaded images
 │── public/          # Static files (HTML, CSS, JS)
 │── .env             # Environment variables
-│── server.js        # Main server file
+│── app.js        # Main server file
 │── package.json     # Project dependencies
 │── reports/         # Generated PDF reports
 ```
